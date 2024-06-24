@@ -59,19 +59,21 @@ To use the examples and tutorials in this repository, follow these steps:
 
 1. Clone the repository on your local machine:
    ````bash
-   git clone https://github.com/Zaskkii/solidity-tutorials-examples.git
+   git clone https://github.com/Zaskkii/solidity-tutorials-examples.git```
    
-2.	Explore the tutorials/ and examples/ directories to learn and experiment with the different Solidity examples.
+2. Explore the **tutorials/** and **examples/** directories to learn and experiment with the different Solidity examples.
 
-3.	Check out the resources under resources/ for more information and useful links.
+3. Check out the resources under **resources/** for more information and useful links.
 
 ### Contribution 
 
 Contributions are welcome! If you want to improve this project with new examples, tutorials or corrections, follow these steps:
 
-	1. Open an issue to discuss your ideas or problems encountered.
-	2.	Fork the repository and make your changes in a new branch.
-	3.	Send a pull request detailing your changes and implemented improvements.
+1. Open an issue to discuss your ideas or problems encountered.
+
+2. Open the file `ERC20Token.sol` and copy the code.
+
+3. Compile and deploy the contract in your preferred Ethereum development environment.
 
 ## Usage Example - ERC-20 Token Contract
 
