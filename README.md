@@ -46,9 +46,9 @@ solidity-tutorials-examples/
 
 ### Details about the Main Directories
 
-- tutorials/**: Contains detailed tutorials that guide developers from basic concepts to advanced Solidity and Ethereum techniques.
+- **tutorials/**: Contains detailed tutorials that guide developers from basic concepts to advanced Solidity and Ethereum techniques.
 - **examples/**: Includes practical examples of smart contracts implemented in Solidity, organised by types such as ERC-20 tokens, voting contracts, among others.
-- tests/**: Here are the unit tests to ensure the functionality and security of the smart contract examples.
+- **tests/**: Here are the unit tests to ensure the functionality and security of the smart contract examples.
 - **resources/**: Provides additional useful links and documents, such as the official Solidity documentation, security best practices and other relevant resources for developers.
 
 ## Use and Contribution
