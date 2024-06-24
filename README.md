@@ -59,7 +59,7 @@ To use the examples and tutorials in this repository, follow these steps:
 
 1. Clone the repository on your local machine:
    ````bash
-   git clone https://github.com/tu-usuario/solidity-tutorials-examples.git
+   git clone https://github.com/Zaskkii/solidity-tutorials-examples.git
    
 2.	Explore the tutorials/ and examples/ directories to learn and experiment with the different Solidity examples.
 
